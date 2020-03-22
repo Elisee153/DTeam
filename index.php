@@ -45,7 +45,7 @@
                                 <h3>
                                     Profitez des services électriques et informatiques<br> à un coût reduit
                                 </h3>
-                                <a class="boxed-btn3" href="services.html">Nos services</a>
+                                <a class="boxed-btn3" href="index.php#service">Nos services</a>
                             </div>
                             <div class="ilstrator_thumb">
                                 <img src="img/ilstrator/illustration.png" alt="">
