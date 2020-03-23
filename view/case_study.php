@@ -7,14 +7,14 @@
     <title>DTeam</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <?php include("layout/header.php")?>
+    <?php include("../layout/header.php")?>
 </head>
 
 <body>   
         <!-- bradcam_area  -->
     <div class="bradcam_area">
         <div class="bradcam_shap">
-            <img src="img/ilstrator/bradcam_ils.png" alt="">
+            <img src="static/img/ilstrator/bradcam_ils.png" alt="">
         </div>
         <div class="container">
             <div class="row">
@@ -23,7 +23,7 @@
                         <h3>Réalisations</h3>
                         <nav class="brad_cam_lists">
                             <ul class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
+                                <li class="breadcrumb-item"><a href="../index.php">Acceuil</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Réalisations</li>
                             </ul>
                         </nav>
@@ -37,10 +37,10 @@
     <!-- case_study_area  -->
     <div class="case_study_area white_case_study">
         <div class="patrn_1 d-none d-lg-block">
-            <img src="img/pattern/patrn_1.png" alt="">
+            <img src="static/img/pattern/patrn_1.png" alt="">
         </div>
         <div class="patrn_2 d-none d-lg-block">
-            <img src="img/pattern/patrn.png" alt="">
+            <img src="static/img/pattern/patrn.png" alt="">
         </div>
         <div class="container">
             <div class="row">
@@ -48,7 +48,7 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="img/case_study/8p1.jpg" alt="">
+                                <img src="static/img/case_study/8p1.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
@@ -61,7 +61,7 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="img/case_study/8p2.jpg" alt="">
+                                <img src="static/img/case_study/8p2.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
@@ -74,7 +74,7 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="img/case_study/4p.jpg" alt="">
+                                <img src="static/img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
@@ -87,7 +87,7 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="img/case_study/4p.jpg" alt="">
+                                <img src="static/img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
@@ -100,7 +100,7 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="img/case_study/4p.jpg" alt="">
+                                <img src="static/img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
@@ -113,7 +113,7 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="img/case_study/4p.jpg" alt="">
+                                <img src="static/img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
@@ -135,7 +135,7 @@
     <!--/ case_study_area  -->
 
     
-    <?php include("layout/footer.php")?>
+    <?php include("../layout/footer.php")?>
     
 </body>
 

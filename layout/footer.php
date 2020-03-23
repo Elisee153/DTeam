@@ -7,12 +7,14 @@
                         <div class="single_carousel">
                             <div class="single_testmonial text-center">
                                 <div class="quote">
-                                    <img src="img/testmonial/quote.svg" alt="">
+                                    <img src="static/img/testmonial/quote.svg" alt="">
+                                    <img src="view/static/img/testmonial/quote.svg" alt="">
                                 </div>
                                 <p></p>
                                 <div class="testmonial_author">
                                     <div>
-                                        <img src="img/testmonial/ELISEE.jpg" alt="" class="img-fluid rounded-circle">
+                                        <img src="static/img/testmonial/ELISEE.jpg" alt="" class="img-fluid rounded-circle">
+                                        <img src="view/static/img/testmonial/ELISEE.jpg" alt="" class="img-fluid rounded-circle">
                                     </div>
                                     <h3>Elisée</h3>
                                     <span>Informatique</span>
@@ -22,12 +24,14 @@
                         <div class="single_carousel">
                             <div class="single_testmonial text-center">
                                 <div class="quote">
-                                    <img src="img/testmonial/quote.svg" alt="">
+                                    <img src="static/img/testmonial/quote.svg" alt="">
+                                    <img src="view/static/img/testmonial/quote.svg" alt="">
                                 </div>
                                 <br/>
                                 <div class="testmonial_author">
                                     <div>
-                                        <img src="img/svg_icon/ganiel.png" alt="" class="img-fluid rounded-circle">
+                                        <img src="static/img/svg_icon/ganiel.png" alt="" class="img-fluid rounded-circle">
+                                        <img src="view/static/img/svg_icon/ganiel.png" alt="" class="img-fluid rounded-circle">
                                     </div>
                                     <h3>Ganiel</h3>
                                     <span>Electricité</span>
@@ -47,13 +51,13 @@
                 <div class="row">
                     <div class="col-xl-6 col-md-6">
                         <div class="lets_projects">
-                            <h3>Pour commencer, <a hreez nous="#">Contactez-nous</a> </h3>
+                            <h3>Pour commencer, <a href="../view/contact.php">Contactez-nous</a> </h3>
                         </div>
                     </div>
                     <div class="col-xl-6 col-md-6">
                         <div class="phone_number">
                             <h3>+243 851 272 953</h3>
-                            <a href="#">elisee.kalonji99@gmail.com</a>
+                            <a >elisee.kalonji99@gmail.com</a>
                         </div>
                     </div>
                 </div>
@@ -67,8 +71,9 @@
                             <div class="footer_logo">
                                 <div class="icon">
                                     <h1 style="color:white">
-                                        <img src="img/banner/logo.png" alt="">
-                                        <a href="index.html">DTeam</a>
+                                        <img src="static/img/banner/logo.png" alt="">
+                                        <img src="view/static/img/banner/logo.png" alt="">
+                                        <a href="../index.php">DTeam</a>
                                     </h1>
                                 </div>
                             </div>
@@ -152,30 +157,53 @@
         </div>
     </footer>
 <!-- JS here -->
-<script src="js/vendor/modernizr-3.5.0.min.js"></script>
-<script src="js/vendor/jquery-1.12.4.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="js/isotope.pkgd.min.js"></script>
-<script src="js/ajax-form.js"></script>
-<script src="js/waypoints.min.js"></script>
-<script src="js/jquery.counterup.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
-<script src="js/scrollIt.js"></script>
-<script src="js/jquery.scrollUp.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/nice-select.min.js"></script>
-<script src="js/jquery.slicknav.min.js"></script>
-<script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/plugins.js"></script>
-<script src="js/gijgo.min.js"></script>
+<script src="static/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="static/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="static/js/popper.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
+<script src="static/js/owl.carousel.min.js"></script>
+<script src="static/js/isotope.pkgd.min.js"></script>
+<script src="static/js/ajax-form.js"></script>
+<script src="static/js/waypoints.min.js"></script>
+<script src="static/js/jquery.counterup.min.js"></script>
+<script src="static/js/imagesloaded.pkgd.min.js"></script>
+<script src="static/js/scrollIt.js"></script>
+<script src="static/js/jquery.scrollUp.min.js"></script>
+<script src="static/js/wow.min.js"></script>
+<script src="static/js/nice-select.min.js"></script>
+<script src="static/js/jquery.slicknav.min.js"></script>
+<script src="static/js/jquery.magnific-popup.min.js"></script>
+<script src="static/js/plugins.js"></script>
+<script src="static/js/gijgo.min.js"></script>
 
 <!--contact js-->
-<script src="js/contact.js"></script>
-<script src="js/jquery.ajaxchimp.min.js"></script>
-<script src="js/jquery.form.js"></script>
-<script src="js/jquery.validate.min.js"></script>
-<script src="js/mail-script.js"></script>
+<script src="static/js/contact.js"></script>
+<script src="static/js/jquery.ajaxchimp.min.js"></script>
+<script src="static/js/jquery.form.js"></script>
+<script src="static/js/jquery.validate.min.js"></script>
+<script src="static/js/mail-script.js"></script>
 
-<script src="js/main.js"></script>
+<script src="static/js/main.js"></script>
+
+<!--js for index.php-->
+
+<script src="view/static/js/vendor/modernizr-3.5.0.min.js"></script>
+<script src="view/static/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="view/static/js/popper.min.js"></script>
+<script src="view/static/js/bootstrap.min.js"></script>
+<script src="view/static/js/owl.carousel.min.js"></script>
+<script src="view/static/js/isotope.pkgd.min.js"></script>
+<script src="view/static/js/ajax-form.js"></script>
+<script src="view/static/js/waypoints.min.js"></script>
+<script src="view/static/js/jquery.counterup.min.js"></script>
+<script src="view/static/js/imagesloaded.pkgd.min.js"></script>
+<script src="view/static/js/scrollIt.js"></script>
+<script src="view/static/js/jquery.scrollUp.min.js"></script>
+<script src="view/static/js/wow.min.js"></script>
+<script src="view/static/js/nice-select.min.js"></script>
+<script src="view/static/js/jquery.slicknav.min.js"></script>
+<script src="view/static/js/jquery.magnific-popup.min.js"></script>
+<script src="view/static/js/plugins.js"></script>
+<script src="view/static/js/gijgo.min.js"></script>
+
+<script src="view/static/js/main.js"></script>

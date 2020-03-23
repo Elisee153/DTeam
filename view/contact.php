@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
-    <?php include("layout/header.php")?>
+    <?php include("../layout/header.php")?>
 </head>
 <body>
       <!-- navigation  -->
@@ -19,7 +19,7 @@
                         <h3>Contactez-nous</h3>
                         <nav class="brad_cam_lists">
                             <ul class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
+                                <li class="breadcrumb-item"><a href="../index.php">Acceuil</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Contact</li>
                               </ul>
                         </nav>
@@ -93,6 +93,6 @@
         </div>
     </div>
   </section>
-<?php include("layout/footer.php")?>
+<?php include("../layout/footer.php")?>
 </body>
 </html>

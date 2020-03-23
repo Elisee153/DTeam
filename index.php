@@ -26,15 +26,15 @@
    
 
     <div class="shap_big_2 d-none d-lg-block">
-        <img src="img/ilstrator/body_shap_2.png" alt="">
+        <img src="view/static/view/static/img/ilstrator/body_shap_2.png" alt="">
     </div>
     <!-- slider_area_start -->
     <div class="slider_area">
         <div class="shap_img_1 d-none d-lg-block">
-            <img src="img/ilstrator/body_shap_1.png" alt="">
+            <img src="view/static/img/ilstrator/body_shap_1.png" alt="">
         </div>
         <div class="poly_img">
-            <img src="img/ilstrator/poly.png" alt="">
+            <img src="view/static/img/ilstrator/poly.png" alt="">
         </div>
         <div class="single_slider  d-flex align-items-center slider_bg_1">
             <div class="container">
@@ -48,7 +48,7 @@
                                 <a class="boxed-btn3" href="index.php#service">Nos services</a>
                             </div>
                             <div class="ilstrator_thumb">
-                                <img src="img/ilstrator/illustration.png" alt="">
+                                <img src="view/static/img/ilstrator/illustration.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -65,31 +65,31 @@
                 <div class="col-xl-4 col-md-4">
                     <div class="single_service text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/electricity.png" alt="">
+                            <img src="view/static/img/svg_icon/electricity.png" alt="">
                         </div>
                         <h3>Electricité</h3>
                         <p>Nous fournissons des services d'installation du courant électrique à domicile</p>
-                        <a href="#" class="boxed-btn3-text">Lire plus</a>
+                        <a class="boxed-btn3-text">Lire plus</a>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4">
                     <div class="single_service text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/soft.png" alt="">
+                            <img src="view/static/img/svg_icon/soft.png" alt="">
                         </div>
                         <h3>Informatique</h3>
                         <p>Nous developpons des applications Web & Mobile selon les besoins du client</p>
-                        <a href="#" class="boxed-btn3-text">Lire plus</a>
+                        <a class="boxed-btn3-text">Lire plus</a>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4">
                     <div class="single_service text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/domo.png" alt="">
+                            <img src="view/static/img/svg_icon/domo.png" alt="">
                         </div>
                         <h3>Domotique</h3>
                         <p>Nous combinons des techniques d'électricité, d'électronique et d'informatique.</p>
-                        <a href="#" class="boxed-btn3-text">Lire plus</a>
+                        <a class="boxed-btn3-text">Lire plus</a>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@
             <div class="row">
                 <div class="col-xl-5 col-md-5">
                     <div class="man_thumb">
-                        <img src="img/ilstrator/man.png" alt="">
+                        <img src="view/static/img/ilstrator/man.png" alt="">
                     </div>
                 </div>
                 <div id="about" class="col-xl-7 col-md-7">
@@ -124,10 +124,10 @@
     <!-- case_study_area  -->
     <div class="case_study_area case_bg_1">
         <div class="patrn_1 d-none d-lg-block">
-            <img src="img/pattern/patrn_1.png" alt="">
         </div>
         <div class="patrn_2 d-none d-lg-block">
-            <img src="img/pattern/patrn.png" alt="">
+            <img src="view/static/img/pattern/patrn_1.png" alt="">
+            <img src="view/static/img/pattern/patrn.png" alt="">
         </div>
         <div class="container">
             <div class="row">
@@ -144,7 +144,7 @@
                         <div class="single_study text-center">
                             <div class="thumb">
                                 <a href="#">
-                                    <img src="img/case_study/8p1.jpg" alt="">
+                                    <img src="view/static/img/case_study/8p1.jpg" alt="">
                                 </a>
                             </div>
                             <div class="subheading">
@@ -157,7 +157,7 @@
                         <div class="single_study text-center">
                             <div class="thumb">
                                 <a href="#">
-                                    <img src="img/case_study/8p2.jpg" alt="">
+                                    <img src="view/static/img/case_study/8p2.jpg" alt="">
                                 </a>
                             </div>
                             <div class="subheading">
@@ -170,7 +170,7 @@
                         <div class="single_study text-center">
                             <div class="thumb">
                                 <a href="#">
-                                    <img src="img/case_study/4p.jpg" alt="">
+                                    <img src="view/static/img/case_study/4p.jpg" alt="">
                                 </a>
                             </div>
                             <div class="subheading">
@@ -246,7 +246,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="accordion_thumb">
-                        <img src="img/banner/electr.jpg" alt="">
+                        <img src="view/static/img/banner/electr.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -271,7 +271,7 @@
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_feature">
                         <div class="icon">
-                            <img src="img/svg_icon/instal.png" alt="">
+                            <img src="view/static/img/svg_icon/instal.png" alt="">
                         </div>
                         <h4>Installation du courant électrique</h4>
                         <p>Réparation et installation optimisée du courant électrique à domicile</p>
@@ -280,7 +280,7 @@
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_feature">
                         <div class="icon">
-                            <img src="img/svg_icon/socket.png" alt="">
+                            <img src="view/static/img/svg_icon/socket.png" alt="">
                         </div>
                         <h4>Rallonges personnalisées </h4>
                         <p>Fabrication des rallonges selon les préférences du client </p>
@@ -289,7 +289,7 @@
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_feature">
                         <div class="icon">
-                            <img src="img/svg_icon/code.png" alt="">
+                            <img src="view/static/img/svg_icon/code.png" alt="">
                         </div>
                         <h4>Développement des applications</h4>
                         <p>Développement des applications Web & Mobile selon les besoins</p>
