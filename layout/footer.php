@@ -30,8 +30,8 @@
                                 <br/>
                                 <div class="testmonial_author">
                                     <div>
-                                        <img src="static/img/svg_icon/ganiel.png" alt="" class="img-fluid rounded-circle">
-                                        <img src="view/static/img/svg_icon/ganiel.png" alt="" class="img-fluid rounded-circle">
+                                        <img src="static/img/testmonial/ganiel.jpg" alt="" class="img-fluid rounded-circle">
+                                        <img src="view/static/img/testmonial/ganiel.jpg" alt="" class="img-fluid rounded-circle">
                                     </div>
                                     <h3>Ganiel</h3>
                                     <span>Electricité</span>
