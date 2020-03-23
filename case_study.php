@@ -47,12 +47,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
-                            <a href="Case_details.html">
+                            <a >
                                 <img src="img/case_study/8p1.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6><a href="#">Rallonge à 8 prises + interrupteur</a></h6>
+                            <h6>Rallonge à 8 prises + interrupteur</h6>
                             <p>22000fc/Delai: 2jrs</p>
                         </div>
                     </div>
@@ -60,12 +60,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
-                            <a href="Case_details.html">
+                            <a >
                                 <img src="img/case_study/8p2.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6><a href="#">Rallonge à 8 prises + interrupteur</a></h6>
+                            <h6>Rallonge à 8 prises + interrupteur</h6>
                             <p>22000fc/Delai: 2jrs</p>
                         </div>
                     </div>
@@ -73,12 +73,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
-                            <a href="Case_details.html">
+                            <a >
                                 <img src="img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6><a href="#">Rallonge à 4 prises</a></h6>
+                            <h6>Rallonge à 4 prises</h6>
                             <p>15000fc/Delai: 1jrs</p>
                         </div>
                     </div>
@@ -86,12 +86,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
-                            <a href="Case_details.html">
+                            <a >
                                 <img src="img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6><a href="#">Rallonge à 4 prises</a></h6>
+                            <h6>Rallonge à 4 prises</h6>
                             <p>15000fc/Delai: 1jrs</p>
                         </div>
                     </div>
@@ -99,12 +99,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
-                            <a href="Case_details.html">
+                            <a >
                                 <img src="img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6><a href="#">Rallonge à 4 prises</a></h6>
+                            <h6>Rallonge à 4 prises</h6>
                             <p>15000fc/Delai: 1jrs</p>
                         </div>
                     </div>
@@ -112,12 +112,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
-                            <a href="Case_details.html">
+                            <a >
                                 <img src="img/case_study/4p.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6><a href="#">Rallonge à 4 prises</a></h6>
+                            <h6>Rallonge à 4 prises</h6>
                             <p>15000fc/Delai: 1jrs</p>
                         </div>
                     </div>

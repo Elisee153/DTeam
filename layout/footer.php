@@ -100,9 +100,9 @@
                                 Services
                             </h3>
                             <ul>
-                                <li><a href="#">Electricité</a></li>
-                                <li><a href="#">Informatique</a></li>
-                                <li><a href="#">Domotique</a></li>
+                                <li>Electricité</li>
+                                <li>Informatique</li>
+                                <li>Domotique</li>
                             </ul>
                         </div>
                     </div>
@@ -112,9 +112,9 @@
                                 Liens importants
                             </h3>
                             <ul>
-                                <li><a href="#">Realisations</a></li>
-                                <li><a href="#">A propos</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="case_study.php">Realisations</a></li>
+                                <li><a href="index.php#about">A propos</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>

@@ -107,7 +107,7 @@
                         <img src="img/ilstrator/man.png" alt="">
                     </div>
                 </div>
-                <div class="col-xl-7 col-md-7">
+                <div id="about" class="col-xl-7 col-md-7">
                     <div class="company_info">
                         <h3>A propos de DTeam</h3>
                         <p class="text-justify">
@@ -174,7 +174,7 @@
                                 </a>
                             </div>
                             <div class="subheading">
-                                <h6><a href="#">Rallonge à 4 prises simple</a></h6>
+                                <h6><a href="#">Rallonge à 4 prises simples</a></h6>
                                 <p>DTeam, Design</p>
                             </div>
                         </div>
@@ -274,7 +274,7 @@
                             <img src="img/svg_icon/instal.png" alt="">
                         </div>
                         <h4>Installation du courant électrique</h4>
-                        <p>Réparation et installation optimisé du courant électrique à domicile</p>
+                        <p>Réparation et installation optimisée du courant électrique à domicile</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-6 col-lg-4">
