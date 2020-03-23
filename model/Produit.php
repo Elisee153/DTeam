@@ -1,6 +1,55 @@
 <?php
+/**
+**
+Model
+**
+**/
 Class Produit{
-
+	private $idproduit;
+	private $nomproduit;
+	private $prix;
+	private $delai;
+	private $datepublication;
+	private $image;
+	private $probleme;
+	private $solution;
+	//>>>>>>>>>>>>>>>===============>>>>>>>>>>>>>>
+	private function __construct($id,$nom,$prix,$delai,$date,$image,$probleme,$solution){
+		$this->idproduit = $id;
+		$this->nomproduit = $nom;
+		$this->prix = $prix;
+		$this->delai = $delai;
+		$this->datepublication = $date;
+		$this->image = $image;
+		$this->probleme = $probleme;
+		$this->solution = $solution;
+	}
+	//>>>>>>>>>>>>>>=====getteur==========>>>>>>>>>>>>>>>>>	
+	public function getId(){
+		return $this->idproduit;
+	}
+	public function getNom(){
+		return $this->nomproduit;
+	}
+	public function getPrix(){
+		return $this->prix;
+	} 
+	public function getDelai(){
+		return $this->delai;
+	} 
+	public function getDate(){
+		return $this->datepublication;
+	}
+	public function getImage(){
+		return $this->image;
+	}
+	public function getProbleme(){
+		return $this->probleme;
+	}
+	public function getSolution(){
+		return $this->solution;
+	}
+	//>>>>>>>>>>>>>>>=========Sql============>>>>>>>>>>>>>>>>>>>
 	public static function select() {
 		$connexion=Connexion::getConnexion();
 		$query="SELECT idproduit, nomproduit, prix, delai, datepublication, image, probleme, solution FROM produit";
@@ -30,7 +79,7 @@ Class Produit{
 		$connexion=Connexion::getConnexion();
 		$query="DELETE FROM produit WHERE idproduit=:idproduit";
 		$transaction=$connexion->prepare($query);
-		$transaction->execute(array('idproduit'=>$id));
+		$transaction->execute(array('idproduit'=>$idproduit));
 		return true;
 	}   
 
