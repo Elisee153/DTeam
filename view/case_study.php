@@ -53,7 +53,7 @@
                         </div>
                         <div class="subheading white_subheading">
                             <h6>Rallonge à 8 prises + interrupteur</h6>
-                            <p>22000fc/Delai: 2jrs</p>
+                            <p>25000fc/Fabrication: 2jrs</p>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                         </div>
                         <div class="subheading white_subheading">
                             <h6>Rallonge à 8 prises + interrupteur</h6>
-                            <p>22000fc/Delai: 2jrs</p>
+                            <p>25000fc/Fabrication: 2jrs</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         </div>
                         <div class="subheading white_subheading">
                             <h6>Rallonge à 4 prises</h6>
-                            <p>15000fc/Delai: 1jrs</p>
+                            <p>15000fc/Fabrication: 1jrs</p>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                         </div>
                         <div class="subheading white_subheading">
                             <h6>Rallonge à 4 prises</h6>
-                            <p>15000fc/Delai: 1jrs</p>
+                            <p>15000fc/Fabrication: 1jrs</p>
                         </div>
                     </div>
                 </div>
@@ -100,28 +100,28 @@
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="static/img/case_study/4p.jpg" alt="">
+                                <img src="static/img/case_study/2p1.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6>Rallonge à 4 prises</h6>
-                            <p>15000fc/Delai: 1jrs</p>
+                            <h6>Rallonge à 2 prises + interrupteur</h6>
+                            <p>17000fc/Fabrication: 1jrs</p>
                         </div>
                     </div>
-                </div>
+                </div>              
                 <div class="col-lg-4 col-md-6">
                     <div class="single_study text-center white_single_study">
                         <div class="thumb">
                             <a >
-                                <img src="static/img/case_study/4p.jpg" alt="">
+                                <img src="static/img/case_study/2p2.jpg" alt="">
                             </a>
                         </div>
                         <div class="subheading white_subheading">
-                            <h6>Rallonge à 4 prises</h6>
-                            <p>15000fc/Delai: 1jrs</p>
+                            <h6>Rallonge à 2 prises + interrupteur</h6>
+                            <p>17000fc/Fabrication: 1jrs</p>
                         </div>
                     </div>
-                </div>
+                </div>               
             </div>
             <div class="row">
                 <div class="col-xl-12">

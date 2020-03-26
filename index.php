@@ -143,20 +143,20 @@
                     <div class="case_active owl-carousel">
                         <div class="single_study text-center">
                             <div class="thumb">
-                                <a href="#">
+                                <a>
                                     <img src="view/static/img/case_study/8p1.jpg" alt="">
                                 </a>
                             </div>
                             <div class="subheading">
                                 <h6>
-                                    <a href="#"></a>Rallonge à 7 prises + interrupteur</a>
+                                    <a></a>Rallonge à 7 prises + interrupteur</a>
                                 </h6>
                                 <p>DTeam, Design</p>
                             </div>
                         </div>
                         <div class="single_study text-center">
                             <div class="thumb">
-                                <a href="#">
+                                <a>
                                     <img src="view/static/img/case_study/8p2.jpg" alt="">
                                 </a>
                             </div>
@@ -169,12 +169,23 @@
                         </div>
                         <div class="single_study text-center">
                             <div class="thumb">
-                                <a href="#">
+                                <a>
                                     <img src="view/static/img/case_study/4p.jpg" alt="">
                                 </a>
                             </div>
                             <div class="subheading">
-                                <h6><a href="#">Rallonge à 4 prises simples</a></h6>
+                                <h6><a>Rallonge à 4 prises simples</a></h6>
+                                <p>DTeam, Design</p>
+                            </div>
+                        </div>
+                        <div class="single_study text-center">
+                            <div class="thumb">
+                                <a>
+                                    <img src="view/static/img/case_study/2p1.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="subheading">
+                                <h6><a>Rallonge à 2 prises + interrupteur</a></h6>
                                 <p>DTeam, Design</p>
                             </div>
                         </div>

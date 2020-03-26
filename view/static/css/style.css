@@ -3081,6 +3081,15 @@ h3 {
     z-index: 0;
 }
 
+.admin_area {
+    background-size: cover;
+    background-position: bottom;
+    padding: 100px 0 100px 0;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 0;
+}
+
 @media (max-width: 767px) {
     /* line 13, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_bradcam.scss */
     .bradcam_area {
@@ -4625,7 +4634,7 @@ h3 {
 .case_study_area .single_study .subheading h4 {
     margin-bottom: 6px;
     color: #fff;
-    font-size: 22px;
+    /*font-size: 22px;*/
     font-weight: 400;
 }
 
@@ -5037,6 +5046,10 @@ h2 {
 
 h3 {
     font-size: 24px;
+}
+
+.admin {
+    font-size: 32px;
 }
 
 
