@@ -31,7 +31,8 @@ foreach($data as $d=>$value){
 }
 
 if(!$found){
-    header("Location:../../da-min/dashboard.php");
-   // header("Location:../../da-min");
+    //header("Location:../../da-min/dashboard.php");
+    $_SESSION['error'] = "Erreur! Login ou mot de passe incorrect.";
+    header("Location:../../da-min");
 }
 

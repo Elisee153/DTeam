@@ -7,6 +7,7 @@
     <?php include("header.inc")?>
 </head>
 <body>
+
 <div class="admin_area">
         <div class="bradcam_shap">
             <img src="view/static/img/ilstrator/bradcam_ils.png" alt="">
@@ -15,8 +16,13 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class=" text-center">
-                        <img src="view/static/img/svg_icon/admin_elec.png" alt="">
+                        <img src="../view/static/img/svg_icon/admin_elec.png" alt="">
                         <h1 class="admin">DTeam Admin</h1>
+                        <?php
+                            if(isset($_SESSION['error'])){
+                                echo '<p class="alert alert-danger">'.$_SESSION['error'].'</p>';
+                            }
+                        ?>
                     </div>
                 </div>
             </div><br>

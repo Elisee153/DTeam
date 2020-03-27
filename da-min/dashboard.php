@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
     <?php
-
-        if(!isset($_SESSION['iduser'])){
+        /*
+        if(!isset($_SESSION['id'])){
             header("Location: ../controller/admin/login.php");
-        }
-
+        }*/
         include("header.inc");
     ?>
 
